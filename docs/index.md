@@ -4,8 +4,6 @@ layout: default
 theme: jekyll-theme-minimal
 ---
 
-
-
 # My great website
 
 My name is Stephanie. I am a student at [PSU](https://www.psu.edu)
