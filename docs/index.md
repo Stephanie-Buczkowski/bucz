@@ -1,7 +1,7 @@
 ---
-title: "My Simple Site"
-layout: default
-theme: jekyll-theme-minimal
+title: "Mt wedsite"
+layout: "default"
+theme: "jekyll-theme-minimal"
 ---
 
 
