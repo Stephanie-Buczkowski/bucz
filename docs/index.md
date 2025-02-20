@@ -1,7 +1,6 @@
 ---
 title: "Mt wedsite"
-layout: "default"
-theme: "jekyll-theme-minimal"
+layout: default
 ---
 
 
