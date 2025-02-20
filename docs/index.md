@@ -1,8 +1,9 @@
 ---
-title: "Mt website"
-description: "professional site"
-layout: "default"
+title: "My Simple Site"
+layout: default
+theme: jekyll-theme-minimal
 ---
+
 
 
 # My great website
