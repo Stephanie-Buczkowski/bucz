@@ -1,7 +1,8 @@
------
+---
+title: "My Simple Site"
 layout: default
-title: "My website"
------
+theme: jekyll-theme-minimal
+---
 
 
 # My great website
