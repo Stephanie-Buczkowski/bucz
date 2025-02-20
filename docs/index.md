@@ -1,6 +1,7 @@
 ---
-title: "Mt wedsite"
-layout: default
+title: "Mt website"
+description: "professional site"
+layout: "default"
 ---
 
 
