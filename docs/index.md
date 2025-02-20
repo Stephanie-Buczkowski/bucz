@@ -1,4 +1,10 @@
-# My great web site
+-----
+layout: default
+title: "My website"
+-----
+
+
+# My great website
 
 My name is Stephanie. I am a student at [PSU](https://www.psu.edu)
 
